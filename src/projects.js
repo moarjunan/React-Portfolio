@@ -52,7 +52,7 @@ export const projects = [
   {
     projectTitle: "Daily Planner",
     description: "a simple Web app to help organize your 9-5 day.",
-    imageLink: "", 
+    imageLink: "https://github.com/moarjunan/React-Portfolio/blob/main/src/images/DailyPlanner.png?raw=true", 
     liveLink: "https://moarjunan.github.io/Daily-Planner/",
     gitHub: "https://github.com/moarjunan/Daily-Planner",
   },

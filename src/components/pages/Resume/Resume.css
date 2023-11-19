@@ -54,11 +54,6 @@ p {
   margin-top: 5px;
 }
 
-/* Center the "Other Tech Skills" section */
-#other-tech-skills {
-  text-align: center;
-}
-
 /* Center the text inside each section */
 h2,
 p {
@@ -79,6 +74,26 @@ p {
 
 /* Add this style to separate each skill section */
 .skill-section {
+  border: 2px solid #8F9779; /* Woody brown color */
+  border-radius: 10px;
+  padding: 15px;
   margin-bottom: 20px;
-  text-align: center;
+  margin-top: 20px; 
+  background-color: #8F9779; 
+}
+
+.skill-section h2 {
+  color: #4E3A28; /* Woody brown color */
+}
+
+.skill-section p {
+  color: #4E3A28; 
+  font-weight: bold; /* Woody brown color */
+}
+
+
+
+
+#other-tech-skills {
+  margin-bottom: 0; /* Adjust margin for the last section */
 }

@@ -25,7 +25,7 @@ export default function About() {
       />
 
       <div className="about-content" style={{ width: "70%", margin: "0 auto", color: "#2D1E12" }}>
-        <h1 id="about-me-title" style = {{color: "#4E5D44"}} >OH! Who is that?</h1>
+        <h1 id="about-me-title" style = {{color: "#4E3A28"}} >OH! Who is that?</h1>
         <p id="p-about">
           Hello! I'm a full-stack software developer with a strong background in
           statistics and data science.

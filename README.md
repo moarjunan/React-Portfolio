@@ -1,70 +1,48 @@
-# Getting Started with Create React App
+# Mo's React Portfolio
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+My React Portfolio
 
-## Available Scripts
+Bootcamp Challenge 20: React
 
-In the project directory, you can run:
+## Description
 
-### `npm start`
+This portfolio application has been crafted to exhibit my web applications, resume, and skills for the benefit of potential employers, clients, and other interested individuals. Built with React, an open-source JavaScript library for constructing user interfaces, and Material-UI, a widely-used component library that adheres to Google's Material Design principles, this portfolio aims to provide a seamless and visually appealing showcase.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+React, developed by Facebook, simplifies the creation of interactive and dynamic user interfaces through its component-based structure, efficient rendering using the virtual DOM, and a declarative syntax. Although operating as a one-page application, it offers users the experience of navigating through multiple pages.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Table of Contents 
 
-### `npm test`
+- [Installation](#installation)
+- [Usage](#usage)
+- [Credits](#credits)
+- [License](#license)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Installation
 
-### `npm run build`
+1. Clone the Repository. 
+2. Open VSCode, install NodeJS if needed and run npm install in the integrated terminal.
+3. Run the application by typing the command npm run start:dev in the terminal.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Usage  
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Demo:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+![demo](/demo.gif)
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Credits
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- [React](https://react.dev/learn/)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Shoutout to Mai Deshpande my SWE friend who helped me with setup, error handling and general knowledge/questions. You're a genuis girl!
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## License 
+MIT License
 
-## Learn More
+Copyright (c) [2023] [Mukunth Arjunan]
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.

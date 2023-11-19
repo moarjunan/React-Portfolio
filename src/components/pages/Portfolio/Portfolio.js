@@ -54,7 +54,7 @@ function Project({ project }) {
 export default function Work() {
   return (
     <div className="portfolio-container" style={{ marginLeft: "20px", marginBottom: "20px", textAlign: "center" }}>
-      <h1 className="portfolio-header" style={{ color: "#4E5D44" }}>Portfolio</h1>
+      <h1 className="portfolio-header" style={{ color: "#4E3A28" }}>Portfolio</h1>
       <Grid container spacing={3}>
         {projects.map((project) => (
           <Project project={project} key={project.id} />
