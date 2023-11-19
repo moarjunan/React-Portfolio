@@ -1,0 +1,29 @@
+/* About styles */
+
+.about-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.color-img {
+  object-fit: contain;
+  object-position: center;
+  max-width: 100%;
+  height: auto;
+  width: 50%; /* Adjust the width as needed */
+}
+
+.about-content {
+  width: 70%;
+  margin: 0 auto;
+  text-align: center;
+}
+
+#about-me-title {
+  display: flex;
+  justify-content: center;
+}
+
+#p-about {
+  text-align: center;
+}

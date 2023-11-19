@@ -1,0 +1,56 @@
+New York, NY | 412-706-1377
+mukunth.arjunan@gmail.com
+
+Motivated Data Scientist with 3 years of experience in analyzing and maintaining large datasets, and deriving multi-stage insights for
+various industries including retail, travel, financial, and subscription-based companies. Strong problem-solving skills and the ability
+to adapt quickly to new challenges. Results-oriented mindset focused on delivering actionable insights that drive business growth and
+efficiency.
+
+SQL (MySQL, Postgres, NoSQL, Snowflake)
+Python (NumPy, Pandas, Scikit-learn, Keras, Flask)
+R, SAS
+Sigma, Power BI, Tableau
+Data Visualization
+
+Time Series Forecasting
+Productionizing Models
+Customer Segmentation
+Regression analysis
+ETL (Extract Transform Load)
+Database Management
+
+Javascript (NodeJS, ReactJS, jQuery)
+HTML/CSS
+AWS
+Git
+Agile Methodology
+
+Built and implemented a K-means cluster for AMC theatres to profile and allocate customers based on past spend, frequency and
+basket size post pandemic. Used the clusters to recommend targeted campaigns for AMC which resulted in a 7% sales lift across
+groups on average.
+Standardized a stratified test/control selection for WAWA and built a propensity score matcher to reduce observational bias in all
+randomized controlled trials. Almost 70% of previous trials showed better results and lift after applying the model.
+Optimized and automated weekly and monthly reports and dashboards for multiple clients like Best Buy, AMC and Subway for
+points liability, expirations, enrollments, cardholders, etc. through the company's client databases on SQL. Decreased manual
+run time by 83%.
+Built a churn model and survival forest to identify the most important features related to churn and assign a churn score for each
+account. Top 50% of churn scores were then targeted with relevant monthly retention programs. Decreased customer attrition by
+14% in Wawa and 9% in Ascena brands.
+Develop and implement customer lifetime value models to assess the long-term profitability of customers and guide strategic
+decision-making.
+Utilized advanced querying, visualization and analytics tools to effectively communicate insights and recommendations to
+internal and external stakeholders, aiding in decision-making and driving business growth.
+
+Cooperated with the statistics department in University of Pittsburgh to gather behavioral data from college freshman for
+observational and sample studies.
+Organized, preprocessed and analyzed experimental data in SAS and R, decreasing errors and reducing data processing time
+
+Requested by Southern Methodist University to conduct an in depth analysis of Rate My Professor in a student led project.
+Web scraped Rate My Professor for multiple universities and used NLTK and SVM to model quantitative and qualitative reviews to
+identify gender bias between ratings.
+
+May 2023- Present
+
+3.5/4.0
+
+

@@ -1,0 +1,63 @@
+/* Contact styles */
+
+/* Animation styles */
+@keyframes pop-on-hover {
+  50% {
+    transform: scale(1.2);
+  }
+}
+
+.pop-on-hover {
+  display: inline-block;
+  vertical-align: middle;
+  transform: perspective(1px) translateZ(0);
+  box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+}
+
+.pop-on-hover:hover,
+.pop-on-hover:focus,
+.pop-on-hover:active {
+  animation-name: pop-on-hover;
+  animation-duration: 0.3s;
+  animation-timing-function: linear;
+  animation-iteration-count: 1;
+}
+
+/* Button styles */
+#contact-button {
+  background-color: #4E5D44; /* Woody brown color */
+  color: white;
+}
+
+#contact-button:hover {
+  background-color: #6F7D63; /* Darker woody brown color on hover */
+}
+
+/* Form styles */
+form {
+  display: flex;
+  flex-direction: column;
+  align-items: center; /* Center the form */
+  max-width: 50%;
+  margin: auto;
+  padding: 20px;
+  background-color: #8F9779; /* Sage green background */
+  border-radius: 10px;
+  margin-top: 30px;
+  margin-bottom: 20px; /* Added margin to the bottom of the grey box */
+}
+
+/* Textfield styles */
+#outlined-basic {
+  background-color: #8F9779; /* Sage green background */
+  margin-bottom: 15px;
+  width: 100%; /* Make the text fields the full length of the grey box */
+}
+
+/* Error message styles */
+.error-text {
+  color: #ff0000;
+  font-size: 14px;
+  margin-top: -15px;
+  text-align: center;
+}

@@ -1,0 +1,37 @@
+/* Navigation styles */
+
+.nav {
+  display: flex;
+  list-style: none;
+  width: 40vw;
+  justify-content: space-between;
+  height: 40px; /* Adjust the height to reduce thickness */
+  padding-right: 15px; /* Adjust the right padding as needed */
+  padding-top: 10px; /* Adjust the top padding as needed */
+}
+
+#nav-link:visited {
+  text-decoration: none;
+  color: #4E3A28; /* Dark woody brown color */
+}
+
+#nav-link.active {
+  color: #2D1E12; /* Sage green color */
+  display: flex;
+  justify-content: flex-end; 
+}
+
+#nav-link {
+  display: flex;
+  justify-content: flex-end; 
+  font-size: 18px;
+  font-weight: bold;
+}
+
+@media (max-width: 589px) {
+  .nav {
+    flex-direction: column;
+    align-items: flex-end; 
+    width: auto; 
+  }
+}

@@ -1,0 +1,15 @@
+/* Header styles */
+
+.header-container {
+  background-color: #8F9779; /* Sage green background */
+  height: 20vh;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 2vw;
+}
+
+.header-text {
+  font-size: 3em;
+  color: #4E3A28; /* Dark woody brown color */
+}
