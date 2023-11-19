@@ -61,7 +61,7 @@ export default function Contact() {
           <MenuItem>
             <TextField
               value={email}
-              onBlur={(e) => handleBlur(e, "email", /^[\w-\.]+@([\w-]+\.)+[\w-]{2,4}$/, "Please enter a valid email")}
+              onBlur={(e) => handleBlur(e, "email", /^[\w-.]+@([\w-]+\.)+[\w-]{2,4}$/, "Please enter a valid email")}
               id="outlined-basic"
               label="Email Address"
               name="email"
